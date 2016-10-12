@@ -67,3 +67,4 @@ set_global_assignment -name VHDL_FILE COUNTER.vhd
 set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
 set_global_assignment -name VHDL_FILE DIVIDER_SERIAL.vhd
 set_global_assignment -name VECTOR_WAVEFORM_FILE DIVIDER_SERIAL.vwf
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "NO HEAT SINK WITH STILL AIR"

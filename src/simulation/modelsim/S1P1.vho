@@ -17,7 +17,7 @@
 -- PROGRAM "Quartus Prime"
 -- VERSION "Version 15.1.0 Build 185 10/21/2015 SJ Standard Edition"
 
--- DATE "10/12/2016 16:32:37"
+-- DATE "10/12/2016 18:36:13"
 
 -- 
 -- Device: Altera EPM1270T144C5 Package TQFP144
